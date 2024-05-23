@@ -6,7 +6,7 @@
 .title {
   font-family: 'college', sans-serif;
   font-size: 48px;
-  color: #ffffff;
+  color: whitesmoke;
 }
 
 .calculator {
@@ -17,7 +17,7 @@
   width: 95vw;
   max-width: 600px;
   height: 95vh;
-  background-color: #164de4;
+  background-color: lightblue;
   border-radius: 25px;
 }
 
@@ -26,7 +26,7 @@
   max-width: 500px;
   height: 70px;
   background-color: #fff;
-  border: 1px solid #02236d;
+  border: 1px solid #2f71ff;
   border-radius: 25px;
   display: flex;
   justify-content: end;
